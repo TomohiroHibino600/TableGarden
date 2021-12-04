@@ -1,6 +1,8 @@
 # TableGarden
 App using Niantic Lightship ARDK
 
+[![youtubePlayer](https://img.youtube.com/vi/PSj0zDrgYJo/0.jpg)](https://www.youtube.com/watch?v=PSj0zDrgYJo)
+
 The following edits are required to completely reproduce the project. 
 However, if you just look at the code, you don't have to do it.
 
