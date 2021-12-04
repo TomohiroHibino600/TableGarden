@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/[Aa]ssets/ARDKExamples/Resources/ARDK/*
+/[Aa]ssets/BakedItem
+/[Aa]ssets/Plugins
